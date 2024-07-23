@@ -1,2 +1,2 @@
 # webproject
- ~Thing About HTML CSS JS~
+ Thing About HTML CSS JS
